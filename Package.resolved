@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUIGenericDialog",
+        "repositoryURL": "https://github.com/globulus/swiftui-generic-dialog",
+        "state": {
+          "branch": null,
+          "revision": "e7f1a107014c3767c4220f9cae1e57d5c9f8fa8b",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
